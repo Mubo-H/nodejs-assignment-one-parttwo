@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0012341",
+    "name": "Dress1",
+    "price": 20,
+    "size": "m"
+  },
+  {
+    "id": "0012342",
+    "name": "Dress2",
+    "price": 30,
+    "size": "l"
+  },
+  {
+    "id": "0012343",
+    "name": "Dress3",
+    "price": 40,
+    "size": "s"
+  },
+  {
+    "id": "0012344",
+    "name": "Dress4",
+    "price": 50,
+    "size": "m"
+  },
+  {
+    "id": "0012345",
+    "name": "Dress5",
+    "price": 60,
+    "size": "s"
+  },
+  {
+    "id": "0012346",
+    "name": "Dress6",
+    "price": 70,
+    "size": "m"
+  }
+]
